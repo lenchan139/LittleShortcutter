@@ -8,8 +8,8 @@ android {
         applicationId "org.lenchan139.littleshortcutter"
         minSdkVersion 21
         targetSdkVersion 26
-        versionCode 1
-        versionName 'V1 Beta'
+        versionCode 4
+        versionName 'V4'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
